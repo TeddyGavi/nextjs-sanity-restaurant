@@ -19,7 +19,7 @@
     "@sanity/demo": "^1.0.2",
     "@sanity/vision": "^3.1.4",
     "@tailwindcss/typography": "^0.5.8",
-    "next": "13.4.9",
+    "next": "14.2.25",
     "next-cloudinary": "^4.14.1",
     "next-sanity": "^5.1.0",
     "next-sanity-image": "^6.1.0",
